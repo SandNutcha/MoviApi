@@ -18,3 +18,4 @@ Step 6 : Ttpe 'ng serve' in terminal
 ![alt text](https://github.com/SandNutcha/MovieApi/blob/main/ng-serve.png?raw=true)
 
 Step 7 : Open http://localhost:4200/ on browser 
+![alt text](https://github.com/SandNutcha/MovieApi/blob/main/localhost.png?raw=true)
