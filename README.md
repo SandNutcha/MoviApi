@@ -4,8 +4,17 @@ Step 1 : Choose master
 ![alt text](https://github.com/SandNutcha/MovieApi/blob/main/master.png?raw=true)
 
 Step 2 : Download floder
-![alt text](https://github.com/SandNutcha/MovieApi/blob/main/download.png?raw=true)
+![alt text](https://github.com/SandNutcha/MovieApi/blob/main/Download.png?raw=true)
 
-Step 2 : Open floder in Visual Studio Code
-Step 3 : Type 'npm install' in terminal
-Step 4 : Ttpe 'ng serve' in terminal
+Step 3 : Open floder in Visual Studio Code
+
+Step 4 : Open terminal
+![alt text](https://github.com/SandNutcha/MovieApi/blob/main/terminal.png?raw=true)
+
+Step 5 : Type 'npm install' in terminal
+![alt text](https://github.com/SandNutcha/MovieApi/blob/main/npm-install.png?raw=true)
+
+Step 6 : Ttpe 'ng serve' in terminal
+![alt text](https://github.com/SandNutcha/MovieApi/blob/main/ng-serve.png?raw=true)
+
+Step 7 : Open http://localhost:4200/ on browser 
